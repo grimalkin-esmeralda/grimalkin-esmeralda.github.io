@@ -1,0 +1,25 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	cursor: auto;
+    cursor: url(cursor.png) 32 32, auto;
+}
+
+
+.content {
+	font-family: monospace;
+	position: absolute;
+	line-height: 20px;
+	font-size: 14px;
+	padding: 20px;
+	cursor: auto;
+    cursor: url(cursor.png) 32 32, auto;
+}
+
+#header {
+	width: 100%;  
+	height: auto;
+	object-fit: cover;
+	
+} 
